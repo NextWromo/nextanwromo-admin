@@ -4,8 +4,7 @@ Dashtar Admin Documentation
 
 Introduction:
 
-This is a e-commerce admin template built with React.js and Tailwindcss with rest api. This is admin template backend is ready and 
-that is built with node, express, mongoose schema validation and use mongodb for  database.
+This is a e-commerce admin template for wromo marketplace database.
 
 
 
